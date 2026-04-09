@@ -2,18 +2,24 @@
 
 <br clear="both">
 
-<img align="left" height="230" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHU1cWVsZng5OGZwYnExczgyOWUxd21qZWJoMGV2OGpvdTFjMTI3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif" alt="Pac-Man GIF" />
+<div>
+  <img 
+    align="left" 
+    height="230" 
+    src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHU1cWVsZng5OGZwYnExczgyOWUxd21qZWJoMGV2OGpvdTFjMTI3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif" 
+    alt="GIF de Perfil" 
+  />
+  
 
-<h1 align="left">.:Bem vindo ao GitHub do MarcosWillianAP1K 👾:.</h1>
+</div>
 
-<p>Programador Full Stack, provativo, facil aprendizado e bom com trabalhos em equipe.</p>
+<h1>.:Bem vindo ao GitHub do MarcosWillianAP1K 👾:.</h1>
 
+<h3>Programador Full Stack, proativo, fácil aprendizado e bom com trabalhos em equipe.</p>
 
 <br clear="both">
 
-
-<h2>📝 Status</h3>
-
+<h2>📝 Status</h2>
 
 <div>
   <img align="left" 
@@ -25,12 +31,11 @@
        alt="Gráfico de Linguagens" />
   
   <br>
+  
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MarcosWillianAP1K&show_icons=true&theme=dracula&hide_border=false" 
        height="150" 
        alt="GitHub Stats" />
 </div>
-
-
 
 <br clear="both">
 
