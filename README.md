@@ -1,15 +1,36 @@
+<kbd>
+
 <br clear="both">
 
 <img align="left" height="230" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHU1cWVsZng5OGZwYnExczgyOWUxd21qZWJoMGV2OGpvdTFjMTI3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif" alt="Pac-Man GIF" />
 
-<h1 align="left">Bem vindo ao GitHub do MarcosWillianAP1K 👾</h1>
+<h1 align="left">.:Bem vindo ao GitHub do MarcosWillianAP1K 👾:.</h1>
+
+<p>Programador Full Stack, provativo, facil aprendizado e bom com trabalhos em equipe.</p>
 
 
+<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosWillianAP1K&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosWillianAP1K&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Grafico%20de%20linguagens" height="150" alt="languages graph"  />
+
+<h2>📝 Status</h3>
+
+
+<div>
+  <img align="left" 
+       src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=AP1K&layout=compact&theme=dracula&hide_border=false&title_color=bd93f9&text_color=ffffff" 
+       alt="WakaTime Stats" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MarcosWillianAP1K&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&title_color=bd93f9&text_color=ffffff" 
+       height="160" 
+       alt="Gráfico de Linguagens" />
+  
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MarcosWillianAP1K&show_icons=true&theme=dracula&hide_border=false" 
+       height="150" 
+       alt="GitHub Stats" />
 </div>
+
+
 
 <br clear="both">
 
@@ -57,3 +78,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosWillianAP1K/MarcosWillianAP1K/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/MarcosWillianAP1K/MarcosWillianAP1K/output/pacman-contribution-graph.svg">
 </picture>
+
+</kbd>
