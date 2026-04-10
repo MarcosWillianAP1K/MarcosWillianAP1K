@@ -1,4 +1,4 @@
-<kbd>
+
 
 <br clear="both">
 
@@ -84,4 +84,5 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/MarcosWillianAP1K/MarcosWillianAP1K/output/pacman-contribution-graph.svg">
 </picture>
 
-</kbd>
+
+
